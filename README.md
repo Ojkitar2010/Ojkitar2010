@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Tratando de aprender un poco cómo se maneja todo esto de los repositorios de Github.
+
+> ##### Creo que siempre hay que tener ganas de aprender!!!
+
+## Espero descubrir
+
+- Cómo se debe trabajar en colaboración 
+- Manejo de terminal
+- Y todo lo que vengas de más, será bienvenido jejeje
